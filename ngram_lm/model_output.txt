@@ -1,0 +1,249 @@
+Number of Training Examples:  720533
+Number of Test Examples:  63769
+Number of Validation Examples:  57004
+
+TESTING BEFORE TRAINING---------
+
+LOSS: 9.226485252380371
+
+DECODING BEFORE TRAINING----------
+the el scholar continue display refinancing revamped privatization a.p. dave marked deductions ore. rows rows frustration royalties enterprise wasted massage hatch guinea honduras ballot ogden announcer friendship britain britain daughters maryland aftermath flood gathered ran st. apartments inflated satisfying berlin felt names patents helmut lens i consumer drinks afterward attributable practitioners 
+
+
+PERPLEXITY BEFORE TRAINING----------
+Test Perplexity:  599.0303347569877
+
+TRAINING STARTS------------------
+
+TRAINING DATA SHAPE:  torch.Size([720533, 4])
+Epoch Number:  0  Batch Number:  1000  Training Loss:  6.598512686729431
+Epoch Number:  0  Batch Number:  2000  Training Loss:  6.051343076705932
+Epoch Number:  0  Batch Number:  3000  Training Loss:  5.844213834285736
+Epoch Number:  0  Batch Number:  4000  Training Loss:  5.698016830444336
+Epoch Number:  0  Batch Number:  5000  Training Loss:  5.6189563565254215
+Epoch Number:  0  Batch Number:  6000  Training Loss:  5.5357122840881345
+Epoch Number:  0  Batch Number:  7000  Training Loss:  5.461701075077057
+Epoch Number:  0  Batch Number:  8000  Training Loss:  5.429819818019867
+Epoch Number:  0  Batch Number:  9000  Training Loss:  5.381049596309662
+Epoch Number:  0  Batch Number:  10000  Training Loss:  5.340611950397491
+Epoch Number:  0  Batch Number:  11000  Training Loss:  5.301980237007141
+Epoch Number:  1  Batch Number:  1000  Training Loss:  5.155177577972412
+Epoch Number:  1  Batch Number:  2000  Training Loss:  5.103035946130753
+Epoch Number:  1  Batch Number:  3000  Training Loss:  5.069770874977112
+Epoch Number:  1  Batch Number:  4000  Training Loss:  5.028509359359742
+Epoch Number:  1  Batch Number:  5000  Training Loss:  5.017074403285981
+Epoch Number:  1  Batch Number:  6000  Training Loss:  4.985244960546494
+Epoch Number:  1  Batch Number:  7000  Training Loss:  4.9622913410663605
+Epoch Number:  1  Batch Number:  8000  Training Loss:  4.957698110580444
+Epoch Number:  1  Batch Number:  9000  Training Loss:  4.941068786382675
+Epoch Number:  1  Batch Number:  10000  Training Loss:  4.923605712890625
+Epoch Number:  1  Batch Number:  11000  Training Loss:  4.9096844553947445
+Epoch Number:  2  Batch Number:  1000  Training Loss:  4.822187989473343
+Epoch Number:  2  Batch Number:  2000  Training Loss:  4.7896688859462735
+Epoch Number:  2  Batch Number:  3000  Training Loss:  4.768451285123825
+Epoch Number:  2  Batch Number:  4000  Training Loss:  4.7422805275917055
+Epoch Number:  2  Batch Number:  5000  Training Loss:  4.740421529769898
+Epoch Number:  2  Batch Number:  6000  Training Loss:  4.717439143180847
+Epoch Number:  2  Batch Number:  7000  Training Loss:  4.705837389230728
+Epoch Number:  2  Batch Number:  8000  Training Loss:  4.70718883395195
+Epoch Number:  2  Batch Number:  9000  Training Loss:  4.699350202560425
+Epoch Number:  2  Batch Number:  10000  Training Loss:  4.686074505567551
+Epoch Number:  2  Batch Number:  11000  Training Loss:  4.679030553340912
+Epoch Number:  3  Batch Number:  1000  Training Loss:  4.613633114814759
+Epoch Number:  3  Batch Number:  2000  Training Loss:  4.587126018047333
+Epoch Number:  3  Batch Number:  3000  Training Loss:  4.570575915575027
+Epoch Number:  3  Batch Number:  4000  Training Loss:  4.552108808517456
+Epoch Number:  3  Batch Number:  5000  Training Loss:  4.551137223005295
+Epoch Number:  3  Batch Number:  6000  Training Loss:  4.532578883647918
+Epoch Number:  3  Batch Number:  7000  Training Loss:  4.523637806177139
+Epoch Number:  3  Batch Number:  8000  Training Loss:  4.5304799284935
+Epoch Number:  3  Batch Number:  9000  Training Loss:  4.5225013780593875
+Epoch Number:  3  Batch Number:  10000  Training Loss:  4.510977778673172
+Epoch Number:  3  Batch Number:  11000  Training Loss:  4.510607326507569
+Epoch Number:  4  Batch Number:  1000  Training Loss:  4.457851808309555
+Epoch Number:  4  Batch Number:  2000  Training Loss:  4.432679210424423
+Epoch Number:  4  Batch Number:  3000  Training Loss:  4.417719768285751
+Epoch Number:  4  Batch Number:  4000  Training Loss:  4.403903102636337
+Epoch Number:  4  Batch Number:  5000  Training Loss:  4.405062016487122
+Epoch Number:  4  Batch Number:  6000  Training Loss:  4.38625736618042
+Epoch Number:  4  Batch Number:  7000  Training Loss:  4.380406058073044
+Epoch Number:  4  Batch Number:  8000  Training Loss:  4.390072506666184
+Epoch Number:  4  Batch Number:  9000  Training Loss:  4.383869891881942
+Epoch Number:  4  Batch Number:  10000  Training Loss:  4.373276663780213
+Epoch Number:  4  Batch Number:  11000  Training Loss:  4.3776139147281645
+Epoch Number:  5  Batch Number:  1000  Training Loss:  4.330801510334015
+Epoch Number:  5  Batch Number:  2000  Training Loss:  4.305761286735534
+Epoch Number:  5  Batch Number:  3000  Training Loss:  4.292182634353638
+Epoch Number:  5  Batch Number:  4000  Training Loss:  4.280464771032333
+Epoch Number:  5  Batch Number:  5000  Training Loss:  4.2830619513988495
+Epoch Number:  5  Batch Number:  6000  Training Loss:  4.266344245433808
+Epoch Number:  5  Batch Number:  7000  Training Loss:  4.260197755336762
+Epoch Number:  5  Batch Number:  8000  Training Loss:  4.274366239786148
+Epoch Number:  5  Batch Number:  9000  Training Loss:  4.267553012371064
+Epoch Number:  5  Batch Number:  10000  Training Loss:  4.257495227575302
+Epoch Number:  5  Batch Number:  11000  Training Loss:  4.264207352399826
+Epoch Number:  6  Batch Number:  1000  Training Loss:  4.222674397706985
+Epoch Number:  6  Batch Number:  2000  Training Loss:  4.1997847564220425
+Epoch Number:  6  Batch Number:  3000  Training Loss:  4.182661697864533
+Epoch Number:  6  Batch Number:  4000  Training Loss:  4.175524234294891
+Epoch Number:  6  Batch Number:  5000  Training Loss:  4.178081677913665
+Epoch Number:  6  Batch Number:  6000  Training Loss:  4.16566691660881
+Epoch Number:  6  Batch Number:  7000  Training Loss:  4.158081862688064
+Epoch Number:  6  Batch Number:  8000  Training Loss:  4.173611641645431
+Epoch Number:  6  Batch Number:  9000  Training Loss:  4.168893518209457
+Epoch Number:  6  Batch Number:  10000  Training Loss:  4.157787140846253
+Epoch Number:  6  Batch Number:  11000  Training Loss:  4.165861026525498
+Epoch Number:  7  Batch Number:  1000  Training Loss:  4.127434295892716
+Epoch Number:  7  Batch Number:  2000  Training Loss:  4.107484547138214
+Epoch Number:  7  Batch Number:  3000  Training Loss:  4.095599595308304
+Epoch Number:  7  Batch Number:  4000  Training Loss:  4.086235387325287
+Epoch Number:  7  Batch Number:  5000  Training Loss:  4.086505769729614
+Epoch Number:  7  Batch Number:  6000  Training Loss:  4.075074064731598
+Epoch Number:  7  Batch Number:  7000  Training Loss:  4.073330990076065
+Epoch Number:  7  Batch Number:  8000  Training Loss:  4.087569075345993
+Epoch Number:  7  Batch Number:  9000  Training Loss:  4.083891669511795
+Epoch Number:  7  Batch Number:  10000  Training Loss:  4.0720668036937715
+Epoch Number:  7  Batch Number:  11000  Training Loss:  4.0800851020812985
+Epoch Number:  8  Batch Number:  1000  Training Loss:  4.046161428689957
+Epoch Number:  8  Batch Number:  2000  Training Loss:  4.026244286060333
+Epoch Number:  8  Batch Number:  3000  Training Loss:  4.015247423410416
+Epoch Number:  8  Batch Number:  4000  Training Loss:  4.005194196224212
+Epoch Number:  8  Batch Number:  5000  Training Loss:  4.005476045131683
+Epoch Number:  8  Batch Number:  6000  Training Loss:  3.996250049114227
+Epoch Number:  8  Batch Number:  7000  Training Loss:  3.9928980572223662
+Epoch Number:  8  Batch Number:  8000  Training Loss:  4.0097021048069
+Epoch Number:  8  Batch Number:  9000  Training Loss:  4.005543655157089
+Epoch Number:  8  Batch Number:  10000  Training Loss:  3.9956819920539854
+Epoch Number:  8  Batch Number:  11000  Training Loss:  4.005530366420746
+Epoch Number:  9  Batch Number:  1000  Training Loss:  3.9751008887290955
+Epoch Number:  9  Batch Number:  2000  Training Loss:  3.9517683656215667
+Epoch Number:  9  Batch Number:  3000  Training Loss:  3.940692459344864
+Epoch Number:  9  Batch Number:  4000  Training Loss:  3.931800597667694
+Epoch Number:  9  Batch Number:  5000  Training Loss:  3.9328976621627807
+Epoch Number:  9  Batch Number:  6000  Training Loss:  3.927569644212723
+Epoch Number:  9  Batch Number:  7000  Training Loss:  3.922260154247284
+Epoch Number:  9  Batch Number:  8000  Training Loss:  3.9425420327186584
+Epoch Number:  9  Batch Number:  9000  Training Loss:  3.9353433933258057
+Epoch Number:  9  Batch Number:  10000  Training Loss:  3.9282214789390566
+Epoch Number:  9  Batch Number:  11000  Training Loss:  3.9363387022018435
+Epoch Number:  10  Batch Number:  1000  Training Loss:  3.9103796100616455
+Epoch Number:  10  Batch Number:  2000  Training Loss:  3.8848679184913637
+Epoch Number:  10  Batch Number:  3000  Training Loss:  3.8731924142837526
+Epoch Number:  10  Batch Number:  4000  Training Loss:  3.868360207557678
+Epoch Number:  10  Batch Number:  5000  Training Loss:  3.8714416799545286
+Epoch Number:  10  Batch Number:  6000  Training Loss:  3.864431889772415
+Epoch Number:  10  Batch Number:  7000  Training Loss:  3.856324204683304
+Epoch Number:  10  Batch Number:  8000  Training Loss:  3.880574841976166
+Epoch Number:  10  Batch Number:  9000  Training Loss:  3.871555754899979
+Epoch Number:  10  Batch Number:  10000  Training Loss:  3.86694065785408
+Epoch Number:  10  Batch Number:  11000  Training Loss:  3.877178462266922
+Epoch Number:  11  Batch Number:  1000  Training Loss:  3.850653520107269
+Epoch Number:  11  Batch Number:  2000  Training Loss:  3.827527356624603
+Epoch Number:  11  Batch Number:  3000  Training Loss:  3.817760220527649
+Epoch Number:  11  Batch Number:  4000  Training Loss:  3.811332447528839
+Epoch Number:  11  Batch Number:  5000  Training Loss:  3.8141889848709107
+Epoch Number:  11  Batch Number:  6000  Training Loss:  3.803667332172394
+Epoch Number:  11  Batch Number:  7000  Training Loss:  3.7977071902751924
+Epoch Number:  11  Batch Number:  8000  Training Loss:  3.8231292181015015
+Epoch Number:  11  Batch Number:  9000  Training Loss:  3.8169104907512663
+Epoch Number:  11  Batch Number:  10000  Training Loss:  3.81244567990303
+Epoch Number:  11  Batch Number:  11000  Training Loss:  3.82338467669487
+Epoch Number:  12  Batch Number:  1000  Training Loss:  3.7993780238628387
+Epoch Number:  12  Batch Number:  2000  Training Loss:  3.7718335781097414
+Epoch Number:  12  Batch Number:  3000  Training Loss:  3.766098623752594
+Epoch Number:  12  Batch Number:  4000  Training Loss:  3.7612168729305266
+Epoch Number:  12  Batch Number:  5000  Training Loss:  3.761056821346283
+Epoch Number:  12  Batch Number:  6000  Training Loss:  3.7529049048423766
+Epoch Number:  12  Batch Number:  7000  Training Loss:  3.746000106573105
+Epoch Number:  12  Batch Number:  8000  Training Loss:  3.772078783750534
+Epoch Number:  12  Batch Number:  9000  Training Loss:  3.7643463108539583
+Epoch Number:  12  Batch Number:  10000  Training Loss:  3.763242790699005
+Epoch Number:  12  Batch Number:  11000  Training Loss:  3.7708606796264648
+Epoch Number:  13  Batch Number:  1000  Training Loss:  3.753410703420639
+Epoch Number:  13  Batch Number:  2000  Training Loss:  3.7219921100139617
+Epoch Number:  13  Batch Number:  3000  Training Loss:  3.715644691944122
+Epoch Number:  13  Batch Number:  4000  Training Loss:  3.7178202931880953
+Epoch Number:  13  Batch Number:  5000  Training Loss:  3.711281788110733
+Epoch Number:  13  Batch Number:  6000  Training Loss:  3.706487450838089
+Epoch Number:  13  Batch Number:  7000  Training Loss:  3.6998846774101257
+Epoch Number:  13  Batch Number:  8000  Training Loss:  3.7282920944690705
+Epoch Number:  13  Batch Number:  9000  Training Loss:  3.717304055929184
+Epoch Number:  13  Batch Number:  10000  Training Loss:  3.7153303248882295
+Epoch Number:  13  Batch Number:  11000  Training Loss:  3.7283349561691286
+Epoch Number:  14  Batch Number:  1000  Training Loss:  3.708612317800522
+Epoch Number:  14  Batch Number:  2000  Training Loss:  3.680353566646576
+Epoch Number:  14  Batch Number:  3000  Training Loss:  3.6752583067417146
+Epoch Number:  14  Batch Number:  4000  Training Loss:  3.674874032020569
+Epoch Number:  14  Batch Number:  5000  Training Loss:  3.6688467872142794
+Epoch Number:  14  Batch Number:  6000  Training Loss:  3.663276368141174
+Epoch Number:  14  Batch Number:  7000  Training Loss:  3.654800338745117
+Epoch Number:  14  Batch Number:  8000  Training Loss:  3.685715889930725
+Epoch Number:  14  Batch Number:  9000  Training Loss:  3.677633673429489
+Epoch Number:  14  Batch Number:  10000  Training Loss:  3.6751967768669127
+Epoch Number:  14  Batch Number:  11000  Training Loss:  3.686357264280319
+Epoch Number:  15  Batch Number:  1000  Training Loss:  3.6689698600769045
+Epoch Number:  15  Batch Number:  2000  Training Loss:  3.6398833174705505
+Epoch Number:  15  Batch Number:  3000  Training Loss:  3.6330634818077088
+Epoch Number:  15  Batch Number:  4000  Training Loss:  3.633069840669632
+Epoch Number:  15  Batch Number:  5000  Training Loss:  3.6253436527252196
+Epoch Number:  15  Batch Number:  6000  Training Loss:  3.6200534877777097
+Epoch Number:  15  Batch Number:  7000  Training Loss:  3.615921543598175
+Epoch Number:  15  Batch Number:  8000  Training Loss:  3.644845409154892
+Epoch Number:  15  Batch Number:  9000  Training Loss:  3.638259883880615
+Epoch Number:  15  Batch Number:  10000  Training Loss:  3.636224953174591
+Epoch Number:  15  Batch Number:  11000  Training Loss:  3.6480875148773193
+Epoch Number:  16  Batch Number:  1000  Training Loss:  3.6317950956821443
+Epoch Number:  16  Batch Number:  2000  Training Loss:  3.608844172716141
+Epoch Number:  16  Batch Number:  3000  Training Loss:  3.6009909937381743
+Epoch Number:  16  Batch Number:  4000  Training Loss:  3.600427155971527
+Epoch Number:  16  Batch Number:  5000  Training Loss:  3.5907044603824616
+Epoch Number:  16  Batch Number:  6000  Training Loss:  3.5854408485889433
+Epoch Number:  16  Batch Number:  7000  Training Loss:  3.581879803657532
+Epoch Number:  16  Batch Number:  8000  Training Loss:  3.609216643333435
+Epoch Number:  16  Batch Number:  9000  Training Loss:  3.606077665090561
+Epoch Number:  16  Batch Number:  10000  Training Loss:  3.6030262615680693
+Epoch Number:  16  Batch Number:  11000  Training Loss:  3.6082861874103545
+Epoch Number:  17  Batch Number:  1000  Training Loss:  3.595694798707962
+Epoch Number:  17  Batch Number:  2000  Training Loss:  3.573178994655609
+Epoch Number:  17  Batch Number:  3000  Training Loss:  3.5719734954833986
+Epoch Number:  17  Batch Number:  4000  Training Loss:  3.5656655938625335
+Epoch Number:  17  Batch Number:  5000  Training Loss:  3.5564532766342163
+Epoch Number:  17  Batch Number:  6000  Training Loss:  3.5572121155261995
+Epoch Number:  17  Batch Number:  7000  Training Loss:  3.546208945989609
+Epoch Number:  17  Batch Number:  8000  Training Loss:  3.5763979923725127
+Epoch Number:  17  Batch Number:  9000  Training Loss:  3.572202063083649
+Epoch Number:  17  Batch Number:  10000  Training Loss:  3.565561475753784
+Epoch Number:  17  Batch Number:  11000  Training Loss:  3.578782267808914
+Epoch Number:  18  Batch Number:  1000  Training Loss:  3.56505197930336
+Epoch Number:  18  Batch Number:  2000  Training Loss:  3.5438871674537658
+Epoch Number:  18  Batch Number:  3000  Training Loss:  3.5416846430301665
+Epoch Number:  18  Batch Number:  4000  Training Loss:  3.5330076584815977
+Epoch Number:  18  Batch Number:  5000  Training Loss:  3.527824033498764
+Epoch Number:  18  Batch Number:  6000  Training Loss:  3.524508602142334
+Epoch Number:  18  Batch Number:  7000  Training Loss:  3.5179655339717866
+Epoch Number:  18  Batch Number:  8000  Training Loss:  3.5413442628383636
+Epoch Number:  18  Batch Number:  9000  Training Loss:  3.5412635560035706
+Epoch Number:  18  Batch Number:  10000  Training Loss:  3.5355545752048494
+Epoch Number:  18  Batch Number:  11000  Training Loss:  3.5520456297397613
+Epoch Number:  19  Batch Number:  1000  Training Loss:  3.538207285642624
+Epoch Number:  19  Batch Number:  2000  Training Loss:  3.5173371210098265
+Epoch Number:  19  Batch Number:  3000  Training Loss:  3.5110672709941864
+Epoch Number:  19  Batch Number:  4000  Training Loss:  3.507399433851242
+Epoch Number:  19  Batch Number:  5000  Training Loss:  3.4999931659698484
+Epoch Number:  19  Batch Number:  6000  Training Loss:  3.4903575422763824
+Epoch Number:  19  Batch Number:  7000  Training Loss:  3.4899779722690583
+Epoch Number:  19  Batch Number:  8000  Training Loss:  3.5150511960983275
+Epoch Number:  19  Batch Number:  9000  Training Loss:  3.513821093797684
+Epoch Number:  19  Batch Number:  10000  Training Loss:  3.5121836392879486
+Epoch Number:  19  Batch Number:  11000  Training Loss:  3.525983248710632
+
+TESTING BEFORE TRAINING---------
+
+LOSS: 5.925351142883301
+
+DECODING BEFORE TRAINING----------
+the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of 
+
+
+PERPLEXITY BEFORE TRAINING----------
+Test Perplexity:  60.772685629663336
